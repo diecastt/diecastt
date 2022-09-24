@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+Hi! My name is Diego and I am a second year student at McGill University (Montreal, Canada) currently pursuing at BSc. in Software Engineering. I am passionate about technology, notably web development, computers, and high-performance cars (huge Formula 1 fan). I am also really into football/soccer.
+
+##⚡ Work experience: <br>
+- **Junior Test Automation Specialist at SpaceBridge Inc (Contract Part-Time)** - Test automation development on Validation & Verification team. [Montreal, Canada. Summer 2022]
+- **Software Engineer intern at SpaceBridge Inc** - QA testing on the Validation & Verification team. [Montreal, Canada. Summer 2022]
+
 
 <!--
 **diecastt/diecastt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
