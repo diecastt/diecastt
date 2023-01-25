@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi! My name is Diego and I am a second year student at McGill University (Montreal, Canada) currently pursuing a BSc. in Software Engineering. 
+Hi! My name is Diego and I am a second year student at McGill University (Montreal, Canada) currently pursuing a BSc. in Computer Science. 
 
 ## Work experience ⚡
 - **Junior Test Automation Specialist at SpaceBridge Inc (Contract Part-Time)** - Test automation development on the Validation & Verification team. [Montreal, Canada. Summer 2022]
