@@ -3,7 +3,7 @@ Hi! My name is Diego and I am a second year student at McGill University (Montre
 
 ## Work experience
 - **Junior Test Automation Specialist at SpaceBridge Inc (Contract Part-Time)** - Test automation development on the Validation & Verification team. [Montreal, Canada. Sep 2022 - Feb 2023]
-- **Software Engineer Intern at SpaceBridge Inc** - QA testing on the Validation & Verification team. [Montreal, Canada. Summer 2022]
+- **Software Developer Intern at SpaceBridge Inc** - QA testing on the Validation & Verification team. [Montreal, Canada. Summer 2022]
 
 ## Interests
 I am passionate about technology, notably web development, computers, and high-performance cars (huge Formula 1 fan). I am also really into football/soccer.
